@@ -1,0 +1,37 @@
+body {
+    background-image: url(./images/17973599_1432440966818224_386859128327387526_o\ \(1\).jpg)
+}
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color:lightseagreen;
+    background-color: grey;
+}
+h5 {
+    text-align: center;
+    font-style: italic;
+    color:lightseagreen;
+    background-color: grey;
+}
+.picture {
+    display: block;
+    height: 450px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    text-align: center;
+    color:lightseagreen;
+    background-color: grey;
+}
+p {
+    text-align: center;
+    color:lightseagreen;
+    background-color: grey;
+}
+li{
+    color:lightseagreen;
+    background-color: grey;
+
+}
